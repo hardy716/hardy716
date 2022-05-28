@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 0528 attendance
+
+
+
+- attendance 
+0526 0527 0528 0529
 
 <!---
 hardy716/hardy716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
