@@ -7,7 +7,7 @@
 
 
 - attendance 
-0526 0527 0528 0529 0531 0601 0602 0604 0605 0606
+0526 0527 0528 0529 0531 0601 0602 0604 0605 0606 0607
 
 <!---
 hardy716/hardy716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
