@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hardy716
-- 👀 I’m interested in flutter, python, swift.
+- 👀 I’m interested in flutter(dart), python, swift.
 - 🌱 I’m currently developing an application related to movie integration search(will be released this summer).
 - 🌱 I’m currently making and decorating github.io page.
 - 💞️ I’m looking to collaborate on ...
