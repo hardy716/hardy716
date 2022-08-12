@@ -2,8 +2,7 @@
 - 👀 I’m interested in flutter(dart), python, swift, iOS, Java.
 - 🌱 I’m currently developing an application named Seecine related to movie integration search(will be released this summer).
      Related Design Links(https://xd.adobe.com/view/14f3d94b-1c75-4043-8bf2-32148792e63f-41a0/)
-- 🌱 I’m currently making and decorating github.io page. I'm still in the process of organizing the page.
-     (https://hardy716.github.io)
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
