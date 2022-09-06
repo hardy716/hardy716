@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hardy716
-- 👀 I’m interested in flutter(dart), python, swift, iOS, Java.
+- 👀 I’m interested in ...
 
 
 - 💞️ I’m looking to collaborate on ...
