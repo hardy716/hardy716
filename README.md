@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hardy716
 - 👀 I’m interested in Mobile App(iOS) and Web Front-end.
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 hardy716/hardy716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
