@@ -3,8 +3,7 @@ hardy716/hardy716 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes
 --->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtley)](https://solved.ac/turtley/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardy716&show_icons=true&theme=highcontrast)
+<img src="https://capsule-render.vercel.app/api?type=Egg&color=auto&height=300&section=header&text=Hardy's%20Github&fontSize=80&animation=blink"> 
 
 ## ✓ CONTACT
 
@@ -42,6 +41,7 @@ You can click the Preview link to take a look at your changes
 - 2022.09 ~ 2022.11
 
    [(외주/팀)교육빅데이터응용연구센터 홈페이지 제작 및 배포](https://www.notion.so/8a81b3d429d84c158156b9fd0b3a8e10)
+   
 
 - 2022.09 ~ 2022.11
 
@@ -55,3 +55,9 @@ You can click the Preview link to take a look at your changes
 ## ✓ EDUCATION
 
 - 인하대학교 기계공학과 전공
+
+
+## ✓ BOJ & STATS
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtley)](https://solved.ac/turtley/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardy716&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/hardy716/github-readme-stats)
