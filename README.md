@@ -2,10 +2,7 @@
 hardy716/hardy716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
 --->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Shark&color=00aaff&height=280&section=header&text=Hardy's%20Github&fontSize=80&fontColor=000000"> 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello%20I'm%20Hardy&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
 ## ✓ CONTACT
