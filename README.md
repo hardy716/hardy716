@@ -12,6 +12,17 @@ You can click the Preview link to take a look at your changes
   www.linkedin.com/in/devhardy
 
 
+## ✓ SKILL
+
+- now interested in...
+  
+  ![iOS](https://img.shields.io/badge/Apple-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white)
+  ![Apple](https://img.shields.io/badge/AR-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
+  ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322.svg?&style=for-the-badge&logo=CocoaPods&logoColor=white)
+  ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
+  
+
 ## ✓ CAREER
 
 - 2022.11 ~ 현재  
@@ -39,11 +50,11 @@ You can click the Preview link to take a look at your changes
    [부스트코스 코칭스터디 - 리드 부스터로 활동](https://iosdevhardy.notion.site/d0a7ab9089b24324beb149b05b10a40c)
 
 
-## ✓ BOJ
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtley)](https://solved.ac/turtley/)
-
-
 ## ✓ EDUCATION
 
 - 인하대학교 기계공학과 전공
+
+
+## ✓ BOJ
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtley)](https://solved.ac/turtley/)
