@@ -3,13 +3,14 @@ hardy716/hardy716 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes
 --->
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtley)](https://solved.ac/turtley/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardy716&show_icons=true&theme=highcontrast)
+
 ## ✓ CONTACT
 
-- Email.
-  dev.hardy716@gmail.com
-
-- LinkedIn.
-  www.linkedin.com/in/devhardy
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dev.hardy716@gmail.com)
+  [![iCloud](https://img.shields.io/badge/iCloud-3693F3.svg?&style=for-the-badge&logo=iCloud&logoColor=white)](mailto:iabc716@icloud.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedInS&logoColor=white)](www.linkedin.com/in/devhardy)
 
 
 ## ✓ SKILL
@@ -54,8 +55,3 @@ You can click the Preview link to take a look at your changes
 ## ✓ EDUCATION
 
 - 인하대학교 기계공학과 전공
-
-
-## ✓ BOJ
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtley)](https://solved.ac/turtley/)
