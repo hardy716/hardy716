@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes
 - now interested in...
   
   ![iOS](https://img.shields.io/badge/Apple-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white)
+  ![Apple](https://img.shields.io/badge/Apple-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white)
   ![Apple](https://img.shields.io/badge/AR-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
   ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322.svg?&style=for-the-badge&logo=CocoaPods&logoColor=white)
