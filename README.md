@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ SKILL
 
-- now interested in...
+- I'm interested in...
   
   ![iOS](https://img.shields.io/badge/Apple-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white)
   ![Apple](https://img.shields.io/badge/Apple-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white)
