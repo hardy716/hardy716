@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes
 ## ✓ CONTACT
 
 - Email.
-  dev.hardy716@gmail.coom
+  dev.hardy716@gmail.com
 
 - LinkedIn.
   www.linkedin.com/in/devhardy
