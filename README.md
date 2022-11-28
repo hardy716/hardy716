@@ -3,7 +3,7 @@ hardy716/hardy716 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes
 --->
 
-<img src="https://capsule-render.vercel.app/api?type=Egg&color=auto&height=300&section=header&text=🤚🏻hardy's%20Github🤚🏻&fontSize=80&animation=blink&fontColor=000000"> 
+<img src="https://capsule-render.vercel.app/api?type=Egg&color=f6bb43&height=300&section=header&text=🤚🏻Hardy%20Github🤚🏻&fontSize=80&animation=blink&fontColor=000000"> 
 
 ## ✓ CONTACT
 
