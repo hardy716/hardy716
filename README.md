@@ -42,3 +42,8 @@ You can click the Preview link to take a look at your changes
 ## ✓ BOJ
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtley)](https://solved.ac/turtley/)
+
+
+## ✓ EDUCATION
+
+- 인하대학교 기계공학과 전공
