@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ EDUCATION
 
-- 인하대학교 기계공학과 전공
+- Inha Univ. Mechanical Engineering
 
 
 ## ✓ BOJ & STATS
