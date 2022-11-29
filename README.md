@@ -14,14 +14,14 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ SKILL
 
-- I'm interested in...
+- Currently interested in...
   
-  ![iOS](https://img.shields.io/badge/Apple-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white)
-  ![Apple](https://img.shields.io/badge/Apple-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white)
-  ![Apple](https://img.shields.io/badge/AR-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
-  ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322.svg?&style=for-the-badge&logo=CocoaPods&logoColor=white)
-  ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
+  ![Apple](https://img.shields.io/badge/AR-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
+  ![Sketch](https://img.shields.io/badge/Sketch-F7B500.svg?&style=for-the-badge&logo=Sketch&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+  
+  
   
 
 ## ✓ CAREER
