@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes
   
 - Top 5 skills
 
+  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
   ![Adobe%20XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white)
   
 
