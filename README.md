@@ -37,28 +37,28 @@ You can click the Preview link to take a look at your changes
 
 - 2022.11 ~ 현재  
 
-   [(프로젝트/개인)SEECINE 하이브리드 앱 개발 프로젝트](https://www.notion.so/SEECINE-153012f421dd41318d80f08f6a5c67e1)
+   [(프로젝트/개인)SEECINE 하이브리드 앱 개발 프로젝트]([https://www.notion.so/SEECINE-153012f421dd41318d80f08f6a5c67e1](https://www.notion.so/iosdevhardy/SEECINE-aa7a40e529364317ba3e8c2f0a1f994b))
 
 - 2022.07 ~ 현재
 
-   [K-Software Bootcamp 1기](https://www.notion.so/K-Software-Bootcamp-1-c6545c507ac544a480dbab072b54e5f0)
+   [K-Software Bootcamp 1기]([https://www.notion.so/K-Software-Bootcamp-1-c6545c507ac544a480dbab072b54e5f0](https://www.notion.so/iosdevhardy/K-Software-Bootcamp-1-1008484b7df44d3a8f6c8f0c629d1e98))
 
 - 2022.09 ~ 2022.11
 
-   [앨런: Swift 마스터 스쿨 14기](https://www.notion.so/Swift-14-c407668466de4c17bd2b05cf34f50e24)
+   [앨런: Swift 마스터 스쿨 14기]([https://www.notion.so/Swift-14-c407668466de4c17bd2b05cf34f50e24](https://www.notion.so/iosdevhardy/Swift-14-2ad6451e74924eb3a5025dd5d796d23a))
 
 - 2022.09 ~ 2022.11
 
-   [(외주/팀)교육빅데이터응용연구센터 홈페이지 제작 및 배포](https://www.notion.so/8a81b3d429d84c158156b9fd0b3a8e10)
+   [(외주/팀)교육빅데이터응용연구센터 홈페이지 제작 및 배포]([https://www.notion.so/8a81b3d429d84c158156b9fd0b3a8e10](https://www.notion.so/iosdevhardy/4b35fa87cb7f48eaa9171ee9b04d5b20))
    
 
 - 2022.09 ~ 2022.11
 
-   [(프로젝트/팀)2022 국회 데이터 활용 경진대회](https://www.notion.so/2022-959a861177f6485592382bd5e6f79ec1)
+   [(프로젝트/팀)2022 국회 데이터 활용 경진대회]([https://www.notion.so/2022-959a861177f6485592382bd5e6f79ec1](https://www.notion.so/iosdevhardy/2022-8e1d0cc43dff46139c5afaf6923d5de3))
 
 - 2022.07 ~ 2022.08
 
-   [부스트코스 코칭스터디 - 리드 부스터로 활동](https://iosdevhardy.notion.site/d0a7ab9089b24324beb149b05b10a40c)
+   [부스트코스 코칭스터디 - 리드 부스터로 활동]([https://iosdevhardy.notion.site/d0a7ab9089b24324beb149b05b10a40c](https://www.notion.so/iosdevhardy/PY4E-5fe39ba92b444337983c0443f7ea92fe))
 
 
 ## ✓ EDUCATION
