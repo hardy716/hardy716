@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes
   ![Apple](https://img.shields.io/badge/ARKit6-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
   ![Sketch](https://img.shields.io/badge/Sketch-F7B500.svg?&style=for-the-badge&logo=Sketch&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
   
   
