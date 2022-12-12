@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes
 
 - 2022.09 ~ 2022.11
 
-   [앨런: Swift 마스터 스쿨 14기](https://www.notion.so/iosdevhardy/Swift-14-2ad6451e74924eb3a5025dd5d796d23a)
+   [앨런: Swift 마스터 스쿨 14기]
 
 - 2022.09 ~ 2022.11
 
