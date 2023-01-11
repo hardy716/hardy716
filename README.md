@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes
    [](https://www.notion.so/iosdevhardy/SEECINE-aa7a40e529364317ba3e8c2f0a1f994b)
    
 
-- 2022.07 ~ 현재
+- 2022.07 ~ 2023.01
 
    [K-Software Bootcamp 1기](https://iosdevhardy.notion.site/K-Software-Bootcamp-1-1008484b7df44d3a8f6c8f0c629d1e98)
    
