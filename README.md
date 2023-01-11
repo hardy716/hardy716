@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes
   [![iCloud](https://img.shields.io/badge/iCloud-3693F3.svg?&style=for-the-badge&logo=iCloud&logoColor=white)](mailto:iabc716@icloud.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devhardy)
 
+<br>
 
 ## ✓ SKILL
 
@@ -32,6 +33,7 @@ You can click the Preview link to take a look at your changes
   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
   ![Adobe%20XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white) -->
   
+<br>
 
 ## ✓ CAREER
 
@@ -53,7 +55,8 @@ You can click the Preview link to take a look at your changes
    
    [](https://www.notion.so/iosdevhardy/PY4E-5fe39ba92b444337983c0443f7ea92fe)
    
-   
+<br>
+
 ## ✓ PROJECT
 
 - 2022.11 ~ 현재  
@@ -74,13 +77,17 @@ You can click the Preview link to take a look at your changes
    
    [](https://www.notion.so/iosdevhardy/2022-8e1d0cc43dff46139c5afaf6923d5de3)
 
+<br>
 
 ## ✓ EDUCATION
 
 - Inha Univ. Mechanical Engineering
 
+<br>
 
 ## ✓ BOJ & STATS
+
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtley)](https://solved.ac/turtley/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardy716&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight&text_color=000000&bg_color=ffffff&icon_color=00aaff)](https://github.com/hardy716/github-readme-stats)
