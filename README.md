@@ -35,13 +35,6 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ CAREER
 
-- 2022.11 ~ 현재  
-
-   [(프로젝트/개인)SEECINE 하이브리드 앱 개발 프로젝트](https://iosdevhardy.notion.site/SEECINE-aa7a40e529364317ba3e8c2f0a1f994b)
-   
-   [](https://www.notion.so/iosdevhardy/SEECINE-aa7a40e529364317ba3e8c2f0a1f994b)
-   
-
 - 2022.07 ~ 2023.01
 
    [K-Software Bootcamp 1기](https://iosdevhardy.notion.site/K-Software-Bootcamp-1-1008484b7df44d3a8f6c8f0c629d1e98)
@@ -54,24 +47,32 @@ You can click the Preview link to take a look at your changes
    
    [](https://www.notion.so/iosdevhardy/Swift-14-c407668466de4c17bd2b05cf34f50e24)
 
+- 2022.07 ~ 2022.08
+
+   [부스트코스 코칭스터디 - 리드 부스터로 활동](https://iosdevhardy.notion.site/PY4E-5fe39ba92b444337983c0443f7ea92fe)
+   
+   [](https://www.notion.so/iosdevhardy/PY4E-5fe39ba92b444337983c0443f7ea92fe)
+   
+   
+## ✓ PROJECT
+
+- 2022.11 ~ 현재  
+
+   [(프로젝트/개인)SEECINE 하이브리드 앱 개발 프로젝트](https://iosdevhardy.notion.site/SEECINE-aa7a40e529364317ba3e8c2f0a1f994b)
+   
+   [](https://www.notion.so/iosdevhardy/SEECINE-aa7a40e529364317ba3e8c2f0a1f994b)
+
 - 2022.09 ~ 2022.11
 
    [(외주/팀)교육빅데이터응용연구센터 홈페이지 제작 및 배포](https://iosdevhardy.notion.site/4b35fa87cb7f48eaa9171ee9b04d5b20)
    
    [](https://www.notion.so/iosdevhardy/4b35fa87cb7f48eaa9171ee9b04d5b20)
-   
 
 - 2022.09 ~ 2022.11
 
    [(프로젝트/팀)2022 국회 데이터 활용 경진대회](https://iosdevhardy.notion.site/2022-8e1d0cc43dff46139c5afaf6923d5de3)
    
    [](https://www.notion.so/iosdevhardy/2022-8e1d0cc43dff46139c5afaf6923d5de3)
-
-- 2022.07 ~ 2022.08
-
-   [부스트코스 코칭스터디 - 리드 부스터로 활동](https://iosdevhardy.notion.site/PY4E-5fe39ba92b444337983c0443f7ea92fe)
-   
-   [](https://www.notion.so/iosdevhardy/PY4E-5fe39ba92b444337983c0443f7ea92fe)
 
 
 ## ✓ EDUCATION
