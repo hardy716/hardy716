@@ -87,9 +87,10 @@ You can click the Preview link to take a look at your changes
 
 <br>
 
-## ✓ BOJ & STATS
+## ✓ BOJ 
+<!-- & STATS -->
 
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtley)](https://solved.ac/turtley/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardy716&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight&text_color=000000&bg_color=ffffff&icon_color=00aaff)](https://github.com/hardy716/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardy716&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight&text_color=000000&bg_color=ffffff&icon_color=00aaff)](https://github.com/hardy716/github-readme-stats) -->
