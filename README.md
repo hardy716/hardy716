@@ -83,7 +83,9 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ EDUCATION
 
-- Inha Univ. Mechanical Engineering
+- 2017.03 ~ 현재
+
+  Inha Univ. Mechanical Engineering
 
 <br>
 
