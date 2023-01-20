@@ -16,12 +16,12 @@ You can click the Preview link to take a look at your changes
 <br>
 
 ## ✓ SKILL
-
+<!-- 
 - Currently interested in...
   
   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
   ![Apple](https://img.shields.io/badge/ARKit6-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
-  ![Sketch](https://img.shields.io/badge/Sketch-F7B500.svg?&style=for-the-badge&logo=Sketch&logoColor=white)
+  ![Sketch](https://img.shields.io/badge/Sketch-F7B500.svg?&style=for-the-badge&logo=Sketch&logoColor=white) -->
   
   
 - Top 3 skills
@@ -41,21 +41,16 @@ You can click the Preview link to take a look at your changes
 
 - 2022.07 ~ 2023.01
 
-   [K-Software Bootcamp 1기](https://iosdevhardy.notion.site/K-Software-Bootcamp-1-1008484b7df44d3a8f6c8f0c629d1e98)
+   K-Software Bootcamp 1기
    
-   [](https://www.notion.so/iosdevhardy/K-Software-Bootcamp-1-1008484b7df44d3a8f6c8f0c629d1e98)
 
 - 2022.09 ~ 2022.11
 
-   [앨런: Swift 마스터 스쿨 14기](https://iosdevhardy.notion.site/Swift-14-2ad6451e74924eb3a5025dd5d796d23a)
-   
-   [](https://www.notion.so/iosdevhardy/Swift-14-c407668466de4c17bd2b05cf34f50e24)
+   앨런: Swift 마스터 스쿨 14기
 
 - 2022.07 ~ 2022.08
 
-   [부스트코스 코칭스터디 - 리드 부스터로 활동](https://iosdevhardy.notion.site/PY4E-5fe39ba92b444337983c0443f7ea92fe)
-   
-   [](https://www.notion.so/iosdevhardy/PY4E-5fe39ba92b444337983c0443f7ea92fe)
+   부스트코스 코칭스터디 - 리드 부스터로 활동
    
 <br>
 
@@ -63,21 +58,15 @@ You can click the Preview link to take a look at your changes
 
 - 2022.11 ~ 현재  
 
-   [(프로젝트/개인)SEECINE 하이브리드 앱 개발 프로젝트](https://iosdevhardy.notion.site/SEECINE-aa7a40e529364317ba3e8c2f0a1f994b)
-   
-   [](https://www.notion.so/iosdevhardy/SEECINE-aa7a40e529364317ba3e8c2f0a1f994b)
+   (프로젝트/개인)SEECINE 하이브리드 앱 개발 프로젝트
 
 - 2022.09 ~ 2022.11
 
-   [(외주/팀)교육빅데이터응용연구센터 홈페이지 제작 및 배포](https://iosdevhardy.notion.site/4b35fa87cb7f48eaa9171ee9b04d5b20)
-   
-   [](https://www.notion.so/iosdevhardy/4b35fa87cb7f48eaa9171ee9b04d5b20)
+   (외주/팀)교육빅데이터응용연구센터 홈페이지 제작 및 배포
 
 - 2022.09 ~ 2022.11
 
-   [(프로젝트/팀)2022 국회 데이터 활용 경진대회](https://iosdevhardy.notion.site/2022-8e1d0cc43dff46139c5afaf6923d5de3)
-   
-   [](https://www.notion.so/iosdevhardy/2022-8e1d0cc43dff46139c5afaf6923d5de3)
+   (프로젝트/팀)2022 국회 데이터 활용 경진대회
 
 <br>
 
@@ -95,4 +84,4 @@ You can click the Preview link to take a look at your changes
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turtley)](https://solved.ac/turtley/)
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardy716&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight&text_color=000000&bg_color=ffffff&icon_color=00aaff)](https://github.com/hardy716/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardy716&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight&text_color=000000&bg_color=ffffff&icon_color=00aaff)](https://github.com/hardy716/github-readme-stats)
