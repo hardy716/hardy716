@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes
 
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dev.hardy716@gmail.com)
   [![iCloud](https://img.shields.io/badge/iCloud-3693F3.svg?&style=for-the-badge&logo=iCloud&logoColor=white)](mailto:iabc716@icloud.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devhardy)
+<!--   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devhardy) -->
 
 <br>
 
