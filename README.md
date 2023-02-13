@@ -49,8 +49,6 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ PROJECT
 
-- 2022.11 ~ 현재 :  (프로젝트/개인)SEECINE 하이브리드 앱 개발 프로젝트
-
 - 2022.09 ~ 2022.11 :  (외주/팀)교육빅데이터응용연구센터 홈페이지 제작 및 배포
 
 - 2022.09 ~ 2022.11 :  (프로젝트/팀)2022 국회 데이터 활용 경진대회
