@@ -4,13 +4,23 @@ You can click the Preview link to take a look at your changes
 --->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello%20I'm%20Hardy&font=Redressed&size=40)](https://git.io/typing-svg)
 
-[hardy's blog](https://hardy716.github.io)
-<br>
+🎒 [hardy's blog](https://hardy716.github.io)
+
+<br></br>
+
+음식 인식 기술을 활용한 똑똑한 식단 관리 앱을 출시했습니다!
+
+[👉🏻 구글 플레이 스토어 👈🏻](https://play.google.com/store/apps/details?id=com.makeat.makeat&hl=ko-KR)
+
+[👉🏻 앱 스토어 👈🏻](https://apps.apple.com/kr/app/메이킷-makeat-똑똑한-식단-관리-앱/id6463947364)
+
+
+<br></br>
 
 ## ✓ CONTACT
 
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dev.hardy716@gmail.com)
-  [![iCloud](https://img.shields.io/badge/iCloud-3693F3.svg?&style=for-the-badge&logo=iCloud&logoColor=white)](mailto:iabc716@icloud.com)
+<!--   [![iCloud](https://img.shields.io/badge/iCloud-3693F3.svg?&style=for-the-badge&logo=iCloud&logoColor=white)](mailto:iabc716@icloud.com) -->
 <!--   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devhardy) -->
 <br>
 
@@ -25,9 +35,10 @@ You can click the Preview link to take a look at your changes
   
 - Top 3 skills
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
+
   
   
 <!--   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -37,7 +48,7 @@ You can click the Preview link to take a look at your changes
   
 <br>
 
-## ✓ CAREER
+## ✓ EDUCATION
 
 - 2022.07 ~ 2023.01 :  K-Software Bootcamp 1기
    
@@ -49,15 +60,11 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ PROJECT
 
-- 2022.09 ~ 2022.11 :  (외주/팀)교육빅데이터응용연구센터 홈페이지 제작 및 배포
+- 2023.07 ~ 2023.09 :  (프로젝트/팀) 음식 인식 기술을 활용한 식단 관리 앱, 메이킷 출시
 
-- 2022.09 ~ 2022.11 :  (프로젝트/팀)2022 국회 데이터 활용 경진대회
+- 2022.09 ~ 2022.11 :  (외주/팀) 교육빅데이터응용연구센터 홈페이지 제작 및 배포
 
-<br>
-
-## ✓ EDUCATION
-
-- 2017.03 ~ 현재 :  Inha Univ. Mechanical Engineering
+- 2022.09 ~ 2022.11 :  (프로젝트/팀) 2022 국회 데이터 활용 경진대회
 
 <br>
 
