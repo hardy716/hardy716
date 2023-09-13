@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes
 
 <br></br>
 
-음식 인식 기술을 활용한 똑똑한 식단 관리 앱을 출시했습니다! 🍱
+메이킷 - 음식 인식 기술을 활용한 똑똑한 식단 관리 앱을 출시했습니다! 🍱
 
 [👉🏻 구글 플레이 스토어 👈🏻](https://play.google.com/store/apps/details?id=com.makeat.makeat&hl=ko-KR)
 
