@@ -48,7 +48,9 @@ You can click the Preview link to take a look at your changes
   
 <br>
 
-## ✓ EDUCATION
+## ✓ ACTIVITIES
+
+- 2023.02 ~ 2023.05 :  (사)한국산업기술진흥협회 전산직 근무
 
 - 2022.07 ~ 2023.01 :  K-Software Bootcamp 1기
    
