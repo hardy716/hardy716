@@ -62,8 +62,10 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ PRIZE
 
-🎖️ UNITHON 10TH - 특별상
-
+<p>
+  <img src="https://github.com/hardy716/hardy716/assets/101140679/fa80fe3a-76d0-465d-b875-8bc3ad56688a", width= "16px">
+  <text> UNITHON 10TH - 특별상</text>  
+</p>
 <br>
 
 ## ✓ PROJECT
