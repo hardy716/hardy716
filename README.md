@@ -27,10 +27,8 @@ You can click the Preview link to take a look at your changes
 ## ✓ SKILL
 <!-- 
 - Currently interested in...
-  
   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
-  ![Apple](https://img.shields.io/badge/ARKit6-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white)
-  ![Sketch](https://img.shields.io/badge/Sketch-F7B500.svg?&style=for-the-badge&logo=Sketch&logoColor=white) -->
+  ![Apple](https://img.shields.io/badge/ARKit6-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white) -->
   
   
 - Top 3 skills
@@ -39,12 +37,14 @@ You can click the Preview link to take a look at your changes
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
 
-  
+- etc.
+
+  ![Sketch](https://img.shields.io/badge/Sketch-F7B500.svg?&style=for-the-badge&logo=Sketch&logoColor=white)
+  ![Adobe%20XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white)
   
 <!--   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
-  ![Adobe%20XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white) -->
+  ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white) -->
   
 <br>
 
@@ -57,6 +57,10 @@ You can click the Preview link to take a look at your changes
 <br>
 
 ## ✓ ACTIVITIES
+
+- 2023.09 ~ 2023.10 :  노마드코더 플러터 2주 챌린지 (진행 중)
+
+- 2023.09 ~ 2023.09 :  UNITHON 10TH 해커톤 (3일)
 
 - 2023.02 ~ 2023.05 :  (사)한국산업기술진흥협회 전산직 근무
 
