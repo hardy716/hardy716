@@ -48,6 +48,14 @@ You can click the Preview link to take a look at your changes
   
 <br>
 
+## ✓ PRIZE
+
+<p>
+  <img src="https://github.com/hardy716/hardy716/assets/101140679/fa80fe3a-76d0-465d-b875-8bc3ad56688a", width= "16px">
+  <text> UNITHON 10TH - 특별상</text>  
+</p>
+<br>
+
 ## ✓ ACTIVITIES
 
 - 2023.02 ~ 2023.05 :  (사)한국산업기술진흥협회 전산직 근무
@@ -58,14 +66,6 @@ You can click the Preview link to take a look at your changes
 
 - 2022.07 ~ 2022.08 :  부스트코스 코칭스터디 - 리드 부스터로 활동
    
-<br>
-
-## ✓ PRIZE
-
-<p>
-  <img src="https://github.com/hardy716/hardy716/assets/101140679/fa80fe3a-76d0-465d-b875-8bc3ad56688a", width= "16px">
-  <text> UNITHON 10TH - 특별상</text>  
-</p>
 <br>
 
 ## ✓ PROJECT
