@@ -60,6 +60,12 @@ You can click the Preview link to take a look at your changes
    
 <br>
 
+## ✓ PRIZE
+
+🎖️ UNITHON 10TH - 특별상
+
+<br>
+
 ## ✓ PROJECT
 
 - 2023.07 ~ 2023.09 :  (프로젝트/팀) 음식 인식 기술을 활용한 식단 관리 앱, 메이킷 출시
