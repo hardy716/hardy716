@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ ACTIVITIES
 
-- 2023.09 ~ 2023.10 :  노마드코더 플러터 2주 챌린지 (진행 중)
+- 2023.09 ~ 2023.10 :  노마드코더 플러터 2주 챌린지 (수료)
 
 - 2023.09 ~ 2023.09 :  UNITHON 10TH 해커톤 (3일)
 
