@@ -51,6 +51,7 @@ You can click the Preview link to take a look at your changes
   
 <br>
 
+<!-- 
 ## ✓ PRIZE
 
 <p>
@@ -58,6 +59,7 @@ You can click the Preview link to take a look at your changes
   <text> UNITHON 10TH - 특별상</text>  
 </p>
 <br>
+  -->
 
 ## ✓ ACTIVITIES
 
