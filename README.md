@@ -63,17 +63,17 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ ACTIVITIES
 
-- 2023.09 ~ 2023.10 :  노마드코더 플러터 2주 챌린지 수료
+- 2023.09 ~ 2023.10 :  노마드코더 플러터 2주 챌린지 [수료](https://drive.google.com/file/d/1-Kj7jZZ8-WgdmEIg05K1srdqSjdzGTk1/view?usp=share_link)
 
-- 2023.09 ~ 2023.09 :  UNITHON 10TH 해커톤(3일) [특별상](https://drive.google.com/file/d/1lzTcBihaVVTFrbN5xDYnlTRP2X7h-ZLc/view?usp=share_link) 수상
+- 2023.09 ~ 2023.09 :  UNITHON 10TH 해커톤(3일) [특별상 수상](https://drive.google.com/file/d/1lzTcBihaVVTFrbN5xDYnlTRP2X7h-ZLc/view?usp=share_link)
 
-- 2023.02 ~ 2023.05 :  (사)한국산업기술진흥협회 전산직 근무
+- 2023.02 ~ 2023.05 :  (사)한국산업기술진흥협회 [전산직 근무](https://drive.google.com/file/d/1-PVMQksQewXNNPdrxxP6KvosZaqflUeB/view?usp=share_link)
 
-- 2022.07 ~ 2023.01 :  K-Software Bootcamp 1기 수료
+- 2022.07 ~ 2023.01 :  K-Software Bootcamp 1기
    
-- 2022.09 ~ 2022.11 :  앨런: Swift 마스터 스쿨 14기 수료
+- 2022.09 ~ 2022.11 :  앨런: Swift 마스터 스쿨 14기
 
-- 2022.07 ~ 2022.08 :  부스트코스 코칭스터디 - 수료 (리드 부스터로 활동)
+- 2022.07 ~ 2022.08 :  부스트코스 코칭스터디 - [리드 부스터로 활동](https://drive.google.com/file/d/1-HNJC_UPblgo3ez5T7u3x7dePtOWoOuU/view?usp=share_link)
    
 <br>
 
