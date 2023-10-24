@@ -83,8 +83,6 @@ You can click the Preview link to take a look at your changes
 
 ## ✓ PROJECT
 
-- 2023.10 ~ ( ing ) :  (프로젝트/팀) 퍼스널트레이닝 커뮤니티, 핏헙 
-
 - 2023.10 ~ ( ing ) :  (프로젝트/팀) 장소 추천 서비스, 플랙
 
 - 2023.07 ~ 2023.09 :  (프로젝트/팀) 음식 인식 기술을 활용한 식단 관리 앱, 메이킷
