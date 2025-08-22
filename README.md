@@ -3,14 +3,6 @@
 <br></br>
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hardy716&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/hardy716"
-    width="600"
-    height="80"
-  />
-</a>
-
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/677752129721293928/draw"
