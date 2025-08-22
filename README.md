@@ -7,9 +7,18 @@
   <img
     src="https://render.gitanimals.org/lines/hardy716"
     width="600"
-    height="120"
+    height="80"
   />
 </a>
+
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/677752129721293928/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 
 ## ✓ CONTACT
