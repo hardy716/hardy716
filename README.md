@@ -3,7 +3,7 @@
 <br></br>
 
 <a href="https://github.com/hardy716/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hardy716"/>
+  <img src="https://render.gitanimals.org/lines/hardy716?pet-id=1" width="500" height="150"/>
 </a>
 
 ## ✓ CONTACT
